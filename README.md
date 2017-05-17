@@ -1,2 +1,2 @@
-# java-code-200
-write java code 200 lines every day.
+# code-200
+write code 200 lines every day.
